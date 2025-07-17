@@ -18,7 +18,7 @@ O desafio propôs a criação de uma função em JavaScript que calcula o saldo 
 
 ## 📊 Regras de Classificação 
 
-| Vitórias 🇧🇷          | Nível    | 
+| Vitórias             | Nível    | 
 | -------------------- | -------- |
 | Menor que 10         | Ferro    | 
 | 11 a 20              | Bronze   | 
